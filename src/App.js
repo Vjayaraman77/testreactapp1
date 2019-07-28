@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          THis is reach app on LInux server..Vijay2
         </a>
       </header>
     </div>
